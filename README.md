@@ -20,4 +20,13 @@ To get a local copy up and running follow these simple example steps.
 - Change to the project directory by entering : <br>
 
   `cd weather` in the terminal.
+  
+  ### Prerequisites
+
+You need to make sure to have installed the latest version of Node.js and npm on your computer.
+
+### Setup
+
+You can clone this repository or simply download the files as a .zip
+If you want to set up a personal repository based on this one, you can as well fork it.
 
