@@ -30,3 +30,9 @@ You need to make sure to have installed the latest version of Node.js and npm on
 You can clone this repository or simply download the files as a .zip
 If you want to set up a personal repository based on this one, you can as well fork it.
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
