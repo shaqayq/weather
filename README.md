@@ -1,6 +1,9 @@
 # weather
 This is a application for check whether from Afghanistan's cit9.
 #technology 
+- Html
+- CSS
+- JS
 - React
 - Redux 
 ## Authors
