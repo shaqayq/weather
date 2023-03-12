@@ -1,9 +1,10 @@
 import logo from './logo.svg';
-import Main from './components/main';
-
+import Main from './components/Main';
+import Navbar from "./components/Navbar";
 function App() {
   return (
     <div className="App">
+      <Navbar/>
       <Main/>
     </div>
   );

@@ -1,0 +1,21 @@
+.navbar {
+    border-bottom: 1px solid #407bc6;
+    background-color: #0d58b7c9;
+}
+
+.navbarList{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+}
+
+#logo {
+    width: 90px;
+}
+
+#logoName {
+    color: #fff;
+    font-style: italic;
+}
