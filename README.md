@@ -1,7 +1,9 @@
 # weather
-This is a application for check whether from Afghanistan's cit9.
+This is a application for check whether from different city that user select.
+
 #technology 
 - Html
+
 - CSS
 - JS
 - React
